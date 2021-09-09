@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u2sfOdsusoHjklMnoKlbTLCINdEDIhKbJD4fHkc6Ns+k0Squ+4AztGmRjN69Z0WqDO0eugjvOZP7mkXTG4T6Aw==",
+  "dgSpecHash": "9JCCwx+Yg1XWfdiBEVCwfmd0UlYb7pNgjR/5JvXCuPY2t/HOltV+PQ2NAm7I5fPnb/Uvg4l0Wjtno9/H3Z825g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dlores\\source\\repos\\Calculadora\\Calculadora.Test\\Calculadora.Test.csproj",
+  "projectFilePath": "C:\\Users\\dlores\\source\\repos\\CalculadoraGitHub\\Calculadora.Test\\Calculadora.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dlores\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\dlores\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

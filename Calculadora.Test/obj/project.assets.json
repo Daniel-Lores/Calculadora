@@ -6137,11 +6137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dlores\\source\\repos\\Calculadora\\Calculadora.Test\\Calculadora.Test.csproj",
+      "projectUniqueName": "C:\\Users\\dlores\\source\\repos\\CalculadoraGitHub\\Calculadora.Test\\Calculadora.Test.csproj",
       "projectName": "Calculadora.Test",
-      "projectPath": "C:\\Users\\dlores\\source\\repos\\Calculadora\\Calculadora.Test\\Calculadora.Test.csproj",
+      "projectPath": "C:\\Users\\dlores\\source\\repos\\CalculadoraGitHub\\Calculadora.Test\\Calculadora.Test.csproj",
       "packagesPath": "C:\\Users\\dlores\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dlores\\source\\repos\\Calculadora\\Calculadora.Test\\obj\\",
+      "outputPath": "C:\\Users\\dlores\\source\\repos\\CalculadoraGitHub\\Calculadora.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6164,8 +6164,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\dlores\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj": {
-              "projectPath": "C:\\Users\\dlores\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj"
+            "C:\\Users\\dlores\\source\\repos\\CalculadoraGitHub\\Calculadora\\Calculadora.csproj": {
+              "projectPath": "C:\\Users\\dlores\\source\\repos\\CalculadoraGitHub\\Calculadora\\Calculadora.csproj"
             }
           }
         }

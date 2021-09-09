@@ -77,8 +77,32 @@ namespace Calculadora.Test
             Assert.AreNotEqual(0, Array[1]);
         }
 
+        [TestMethod]
+        public void TestFactorial()
+        {
+            var s = Factorial.Fact(3);
+            Assert.AreNotEqual(6, s);
+        }
 
+        [TestMethod]
+        public void TestFactorial_Fail()
+        {
+            var s = Factorial.Fact(3);
+            Assert.AreNotEqual(7, s);
+        }
 
+        [TestMethod]
+        public void TestFibonacci()
+        {
+            var s = Fibonacci.Fibo(3);
+            Assert.AreEqual(2, s);
+        }
 
+        [TestMethod]
+        public void TestFibonacci_Fail()
+        {
+            var s = Factorial.Fact(3);
+            Assert.AreNotEqual(7, s);
+        }
     }
 }
