@@ -12,14 +12,11 @@ namespace Calculadora
             {
                 return 0;
             }
-            else if (iteracionDeseada == 1)
+            if (iteracionDeseada == 1)
             {
                 return 1;
             }
-            else
-            {
-                return Fibo(iteracionDeseada - 1) + Fibo(iteracionDeseada - 2);
-            }
+            return Fibo(iteracionDeseada - 1) + Fibo(iteracionDeseada - 2);
         }
     }
 }

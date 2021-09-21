@@ -6,9 +6,9 @@ namespace Calculadora
 {
     public class Multiplicar
     {
-        public static double Mult(double n1, double n2)
+        public static double Mult(double[] listaNum)
         {
-            return n1 * n2;
+            return listaNum[0] * listaNum[1];
         }
     }
 }

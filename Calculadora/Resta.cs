@@ -6,9 +6,9 @@ namespace Calculadora
 {
     public class Resta
     {
-        public static double Rest(double n1, double n2)
+        public static double Rest(double[] listaNum)
         {
-            return n1 - n2;
+            return listaNum[0] - listaNum[1];
         }
     }
 }
