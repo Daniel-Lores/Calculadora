@@ -50,6 +50,7 @@ namespace Calculadora
                     break;
                 default:
                     Console.WriteLine("No has elegido una operación valida");
+                    Console.WriteLine("Eres un paco, pero un paco muy majo");
                     break;
             }
         }
